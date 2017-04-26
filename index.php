@@ -8,7 +8,8 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title></title>
-        <link href="css/site.css" type="text/css">
+        <link rel="stylesheet" type="text/css" href="css/site.css"
+              
     </head>
     <body>
         <header>
@@ -22,26 +23,26 @@ and open the template in the editor.
         <div>
             <section>
                 <article>
-                    
+                    Aritulo 1
                 </article>
                 <article>
-                    
-                </article>
-            </section>
-            <section>
-                <article>
-                    
-                </article>
-                <article>
-                    
+                    articulo2
                 </article>
             </section>
             <section>
                 <article>
-                    
+                    Articulo 3
                 </article>
                 <article>
-                    
+                    Articuko 4
+                </article>
+            </section>
+            <section>
+                <article>
+                    Articulo 6
+                </article>
+                <article>
+                    Articuko 7
                 </article>
             </section>
         </div>

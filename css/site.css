@@ -17,3 +17,17 @@ header body div nav section article footer{
     display: block;
 }
 
+section{
+    float: left;
+    display: inline-block;
+}
+
+article{
+    float: left;
+    height: 300px;
+    width: 300px;
+    border: 1px;
+}
+
+
+
