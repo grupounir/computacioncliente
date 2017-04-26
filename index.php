@@ -17,7 +17,36 @@ and open the template in the editor.
             </div>
             <div>
                 Segundo Bloque
-            </div>
+            </div>            
         </header>
+        <div>
+            <section>
+                <article>
+                    
+                </article>
+                <article>
+                    
+                </article>
+            </section>
+            <section>
+                <article>
+                    
+                </article>
+                <article>
+                    
+                </article>
+            </section>
+            <section>
+                <article>
+                    
+                </article>
+                <article>
+                    
+                </article>
+            </section>
+        </div>
+        <footer>
+            <h2> pie de pagina</h2>
+        </footer>
     </body>
 </html>
