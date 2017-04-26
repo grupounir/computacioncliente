@@ -8,10 +8,16 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title></title>
+        <link href="css/site.css" type="text/css">
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+        <header>
+            <div>
+                Primer bloque
+            </div>
+            <div>
+                Segundo Bloque
+            </div>
+        </header>
     </body>
 </html>
