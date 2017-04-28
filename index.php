@@ -7,44 +7,78 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
-        <link rel="stylesheet" type="text/css" href="css/site.css"
-              
+        <title>Sitio Web</title>
+        <link rel="stylesheet" type="text/css" href="css/site.css"              
     </head>
     <body>
-        <header>
-            <div>
-                Primer bloque
-            </div>
-            <div>
-                Segundo Bloque
-            </div>            
+        <header id="cabecera">         
+            <div style="display: block; width: 60%; margin: 0px auto;">
+                <div id="izquierda">
+                    Primer bloque
+                </div>
+                <div id="derecha">
+                    Segundo Bloque
+                </div>    
+            </div>                        
         </header>
-        <div>
+        <div id="contenido">
+            <section id="parrafo">
+                <p>Miríada X te ofrece los mejores cursos MOOC de universidades e instituciones iberoamericanas.
+                    Nuestros cursos promueven el aprendizaje social y colaborativo, porque creemos en  la formación gratuita y de calidad.
+                    ¡Aprende, crea y comparte!</p>
+            </section>
             <section>
                 <article>
-                    Aritulo 1
+                    <header>
+                        <h1>Metodologia de Estdios</h1>
+                    </header>
+                    <a class="curso" href="/web/impresion-3d-de-drones/inicio">
+                        <div>Ir al curso</div>
+                    </a>
                 </article>
                 <article>
-                    articulo2
+                    <header>
+                        <h1>Metodologia de Estdios</h1>
+                    </header>
+                    <a class="curso" href="/web/impresion-3d-de-drones/inicio">
+                        <div>Ir al curso</div>
+                    </a>
+                </article>
+                <article>
+                    <header>
+                        <h1>Metodologia de Estdios</h1>
+                    </header>
+                    <a class="curso" href="/web/impresion-3d-de-drones/inicio">
+                        <div>Ir al curso</div>
+                    </a>
                 </article>
             </section>
             <section>
                 <article>
-                    Articulo 3
+                    <header>
+                        <h1>Metodologia de Estdios</h1>
+                    </header>
+                    <a class="curso" href="/web/impresion-3d-de-drones/inicio">
+                        <div>Ir al curso</div>
+                    </a>
                 </article>
                 <article>
-                    Articuko 4
+                    <header>
+                        <h1>Metodologia de Estdios</h1>
+                    </header>
+                    <a class="curso" href="/web/impresion-3d-de-drones/inicio">
+                        <div>Ir al curso</div>
+                    </a>
                 </article>
-            </section>
-            <section>
                 <article>
-                    Articulo 6
+                    <header>
+                        <h1>Metodologia de Estdios</h1>
+                    </header>
+                    <a class="curso" href="/web/impresion-3d-de-drones/inicio">
+                        <div>Ir al curso</div>
+                    </a>
                 </article>
-                <article>
-                    Articuko 7
-                </article>
-            </section>
+            </section>            
         </div>
         <footer>
             <h2> pie de pagina</h2>
