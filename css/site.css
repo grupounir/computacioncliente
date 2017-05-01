@@ -21,6 +21,7 @@ header section article aside footer li div{
 
 body{
     font: 15px/1.5 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     min-width: 1160px;
 }
 
 header{
